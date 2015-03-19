@@ -54,3 +54,7 @@ Mr Awesome
 Jonah Bellemans
 
 Chuck Norris
+
+Mathias Dekempeneer
+
+Pieter De Wever
