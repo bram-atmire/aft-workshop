@@ -6,8 +6,11 @@ Small sandbox repository for a student workshop
 All pull requests have been merged! Here's how:
 
 1. First configure the fetch procedure on your local remote to easily fetch all pending pull requests at once with
+
+```
 bram@Sugarsmooth aft-workshop (master) $ git config --add remote.origin.fetch +refs/pull/*/head:refs/remotes/origin/pr/*
 bram@Sugarsmooth aft-workshop (master) $ git fetch origin
+```
 
 2. For each of them, checkout the branch, edit the file to resolve the conflicht, stage the file with "add" and commit to master
 
