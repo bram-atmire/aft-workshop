@@ -11,6 +11,7 @@ bram@Sugarsmooth aft-workshop (master) $ git fetch origin
 
 2. For each of them, checkout the branch, edit the file to resolve the conflicht, stage the file with "add" and commit to master
 
+```
 bram@Sugarsmooth aft-workshop (master) $ git checkout pr/29
 bram@Sugarsmooth aft-workshop (master) $ git merge pr/29 
 
@@ -22,6 +23,7 @@ bram@Sugarsmooth aft-workshop (master|MERGING) $ open README.md
 bram@Sugarsmooth aft-workshop (master|MERGING) $ git add .
 bram@Sugarsmooth aft-workshop (master|MERGING) $ git commit -m "PR 29 merged"
 [master f0265b1] PR 29 merged
+```
 
 # Names from the exercise
 
