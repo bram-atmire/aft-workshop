@@ -18,9 +18,6 @@ Marnix Michiel Denys
 Charlotte
 Karlijn Willems
 Axel Lemmens
-
-<<<<<<< HEAD
-=======
 Bram Luyten
 Helena Brekalo
->>>>>>> origin/pr/27
+FearTheDust
